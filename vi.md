@@ -62,7 +62,7 @@ Không có câu trả lời đúng cho việc đâu là ngôn ngữ nên học �
 ##### 16. Bạn không cần phải biết tất cả
 Nói thẳng thì bạn không thể biết hết mọi thứ về lập trình. Không ai biết mọi ngôn ngữ lập trình, từng phương thức riêng lẻ, từng thư viện, và tuwnggf framework, hay phương pháp tốt nhất cho từng vấn đề. Đừng lo lắng về việc học mọi thứ, hãy tập trung vào những gì bạn biết mà mở rộng nó.
 
-##### 17. Sâu và rộng
+##### 17. Sâu hơn là rộng
 Học 1 thứ sâu tốt hơn là học từng thứ nhỏ về nhiều thứ, đặc biệt là ban đầu. Kiến thức sâu rộng đó sẽ đi cùng bạn và giúp bạn học thứ tiếp theo dễ dàng hơn.  Giả như người mù, bạn không bị cám dỗ để bỏ những gì bạn đang học và chuyển sang điều gì đó mới mẻ.
 
 ##### 18. Tập trung vào nguyên tắc cơ bản trước
