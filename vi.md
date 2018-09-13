@@ -6,15 +6,15 @@ Những câu hỏi phổ biến nhất mà tôi nhận được từ độc gi�
 
 Tôi sẽ viết toàn bộ câu truyện trong tương lai, nhưng tôi đã qua 2 lớp khoa học máy tính hồi cao học. Sau đó, tôi làm thực tập kĩ sư phần mềm không lâu sau đó. Tôi bắt đầu làm công việc của 1 phát triển web, bắt đầu bên phìa backend và dàn dàn sang cả frontend. Ở cao học, tôi hoàn toàn không được dạy về phát triển web, toàn 1 mình trong những lớp khoa học máy tính đầu tiên, vì vậy tôi đã tự học.
 
-Tôi không nghĩ câu chuyện của tôi là hiếm - tất cả các lập trình viên đều tự học đến 1 mức nào đó, dù cho là hoàn toàn tự học hay họ có những chuyên gia trong khoa học máy tính đi nữa, nhưng họ tự học về RegEx trong quá trình đó. Thực tế, việc tự học có thể là 1 trong những kĩ năng quan trọng nhất bạn có thể có khí là 1 developer.
+Tôi không nghĩ câu chuyện của tôi là hiếm - tất cả các lập trình viên đều tự học đến 1 mức nào đó, dù cho là hoàn toàn tự học hay họ có những chuyên gia trong khoa học máy tính đi nữa, nhưng họ tự học về RegEx trong quá trình đó. Thực tế, việc tự học có thể là 1 trong những kĩ năng quan trọng nhất bạn có thể có khi là 1 developer.
 
 Ngoài ra kinh nghiệm của tôi còn có qua việc dạy người khác code như là công việc chính và cho những tổ chức tình nguyện -- vì vậy bài viết này  cũng mô phỏng lại kinh nghiệm của tôi.
 
 Phần còn lại của bài viết này sẽ có những kinh nghiệm của tôi để bắt đầu lập trình.
-### My Tips for New Programmers
+
 ##### 1. Có lí do để học và hãy nhớ lấy nó
 
-Nếu bạn muốn bắt đầu lập trình, hẳn phải có 1 lí do để làm điều này. Dù cho nó là bạn yêu thích viết code, bạn muốn  có 1 nghề nghiệp khá khẩm hơn, hay  bạn đang làm 1 đống công việc liên quan Excel và bạn muốn khiến chúng trở nên hiệu quả hơn. Hãy luôn ghi nhớ lí do đó, lập trình khó lắm, và bạn sẽ  cảm thấy bực bội 1 lúc nào đó. Việc ghi nhớ và gắn chặt lí do đó vào trong tâm trí là cần thiết. Bạn có thể đặt 1 sticky note trên máy tính của bạn, 1 ghi chú trên màn hình chính, hay (nhưu tôi) viết nó trên gương với 1 dạ.
+Nếu bạn muốn bắt đầu lập trình, hẳn phải có 1 lí do để làm điều này. Dù cho nó là bạn yêu thích viết code, bạn muốn  có 1 nghề nghiệp khá khẩm hơn, hay  bạn đang làm 1 đống công việc liên quan Excel và bạn muốn khiến chúng trở nên hiệu quả hơn. Hãy luôn ghi nhớ lí do đó, lập trình khó lắm, và bạn sẽ  cảm thấy bực bội 1 lúc nào đó. Việc ghi nhớ và gắn chặt lí do đó vào trong tâm trí là cần thiết. Bạn có thể đặt 1 sticky note trên máy tính của bạn, 1 ghi chú trên màn hình chính, hay (như tôi) viết nó trên gương với một điểm đánh dấu ..
 
 ##### 2. Xây dựng 1 nền tảng vững chắc
 Đây có thể là 1 lời khuyên khá kì lạ, nhưng tôi nghĩ nó thực sự hữu ích. Trước khi bạn viết code, nếu bạn chưa biết đến toán,bạn nên xem lại các khái niệm từ Đại số 1. Hầu hết  việc lập trình dựa trên toán học đại số 1 -- ví dụ, các hàm và các biến. Hiểu những khái niệm bên ngoài lập trình sẽ cực kỳ giá trị trong tương lại. Tôi khuyến cáo khóa học đại số 1 của Khan Academy
@@ -25,12 +25,12 @@ Nếu bạn muốn bắt đầu lập trình, hẳn phải có 1 lí do để l�
 #####  4. Chia vấn đề thành những vấn đề nhỏ hơn
 1 trong những phần quan trọng nhất của việc lập trình là chia các vấn đề lớn thành các vấn đề nhỏ hơn cho tới khi chúng có thể giải quyết được. Nếu bạn đang tìm kiếm 1 trình soạn thảo chữ mà không biết bắt đầu từ đâu, có thể bởi vì bạn chưa chia vấn đề ra đủ nhỏ!
 
-##### 5. Pseudocode
-Liên quan đến vấn đề trước,  sẽ rất có lợi khi dành nhiều thời gian để viết ra chi tiết những gì bạn đang cố gawgns thực hiện thành chữ trước khi cố gắng viết code. Quá trình này được gọi là mã giả, và có thể viết bất cứ gì bạn muốn. Điều này cũng có ích trong việc giải quyết 1 vấn đề  thực sự chậm  trên giấy trước tiên, nghĩ về hay thậm chí viết ra từng bước mà bạn đang giải quyết vấn đề đó.
+##### 5. Mã giả
+Liên quan đến vấn đề trước,  sẽ rất có lợi khi dành nhiều thời gian để viết ra chi tiết những gì bạn đang cố gắng thực hiện thành chữ trước khi cố gắng viết code. Quá trình này được gọi là mã giả, và có thể viết bất cứ gì bạn muốn. Điều này cũng có ích trong việc giải quyết 1 vấn đề thực sự kiên nhẫn trên giấy trước tiên, nghĩ về hay thậm chí viết ra từng bước mà bạn đang giải quyết vấn đề đó.
 
-##### 6. Yêu thích vòng lặp học tập
+##### 6. Tạo lập chu kỳ học tập
 
-NẾu bạn đang học lập trình như là nghề tay trái, đặc biệt nếu bạn đã rời xa trường lớp 1 thời gian rồi, việc học các để học sẽ là 1 vấn đề lớn của bạn. Có rất nhiều  thứ liên quan lộn xộn, rất tự nhiên thôi!  Tôi nên yêu thích guồng quay học tập đó trước khi bắt đầu.
+NẾu bạn đang học lập trình như là nghề tay trái, đặc biệt nếu bạn đã rời xa trường lớp 1 thời gian rồi, việc học cách để học sẽ là 1 vấn đề lớn của bạn. Có rất nhiều  thứ cản trở, đấy thật sự là việc r bìnhờng!  Tôi nên tạo lập chu kỳ học tập trước khi bắt đầu.
 
 ##### 7. Bắt đầu với những nguồn miễn phí
 Có hàng triệu nguồn miễn phí để học cách lập trình. 1 vài trong số đó miễn phí, 1 vài phải trả tiền. Tôi nghĩ nên bắt đầu với những nguồn miễn phí, haãy chắc rằng bạn thích việc viết code, và sau đó, bạn có thể nghĩ đến việc chuyển sang những nguồn trả phí hay thậm chí là 1 bootcamp. Tôi có 1 chủ đề về  nguồn học lập trình miễn phí ưa thích của tôi ở đây.
@@ -39,7 +39,7 @@ Có hàng triệu nguồn miễn phí để học cách lập trình. 1 vài tro
 Có rất nhiều thứ trong lập trình, tìm 1 thứ bạn yêu thích và tập trung vào nó. Thay vì cố gắng học 8 ngôn ngữ lập trình, frontend và backend, ngôn ngữ compiled và  interpreted, tất cả các trình biên soạn và các công cụ phát triển, vân vân. Tìm 1 vài thứ bạn thực sự thích thú và trở nên giỏi về chúng.
 
 #####  9. Giỏi trong việc pattern recognition
-Nhận diện mẫu trong code là 1 trong những kĩ năng quan trọng bạn có thể có. Khi mọi người nói về việc viết "DRY" code họ đang nói về việc giảm các mẫu trong code của bạn. Tôi gợi ý 1 trò chơi tên là Set for pattern recognition -- bạn có thể chơi online mỗi ngày trên trang web của New Yorrk Time!
+pattern recognition trong code là 1 trong những kĩ năng quan trọng bạn có thể có. Khi mọi người nói về việc viết "DRY" code họ đang nói về việc giảm các mẫu trong code của bạn. Tôi gợi ý 1 trò chơi tên là Set for pattern recognition -- bạn có thể chơi online mỗi ngày trên trang web của New York Time!
 
 ##### 10. Tạo những thói quen tốt thật sớm
 Rất dễ để viết code sáng sủa trong tương lai nếu bạn có những thói quen tốt từ sớm. Những thói quen xấu rất khó bị phá vỡ. Đây là 1  lời khuyên của  tôi để viết code rõ ràng hơn. Nếu bạn đang 1 web development, chạy các trình xác thực HTML và CSS trên code của bạn có thể nói cho bạn biết chính xác những gì cần sửa!
